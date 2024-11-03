@@ -1,4 +1,3 @@
-
 # Ecowitt GW1100A ioBroker Integration
 
 This repository contains a JavaScript script for integrating the Ecowitt GW1100A weather station with ioBroker.
@@ -54,3 +53,7 @@ Below is a sample JSON response from the GW1100A gateway, for reference.
 ## License
 
 This project is licensed under the MIT License.
+
+---
+
+*Generated with assistance from OpenAI's ChatGPT.*
